@@ -83,4 +83,5 @@ local.properties
 # Typically, this file would be tracked if it contains build/dependency configurations:
 #.project
 
-# End of https://mrkandreev.name/snippets/gitignore-generator/#Java,Eclipse
+
+# End of https://mrkandreev.name/snippets/gitignore-generator/#Java,Eclipse,idea
